@@ -1,0 +1,8 @@
+venv/
+*.log
+uploads/
+rootfs.ext4
+vmlinux
+.tmp*
+__pycache__/
+*.pyc
